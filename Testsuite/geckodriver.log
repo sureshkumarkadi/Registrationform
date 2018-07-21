@@ -1,0 +1,21 @@
+1532190045987	geckodriver	INFO	geckodriver 0.19.0
+1532190045987	geckodriver	INFO	Listening on 127.0.0.1:53316
+1532190049080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SURESH~1.KUM\\AppData\\Local\\Temp\\rust_mozprofile.ugoRnkFSXWJA"
+1532190050729	Marionette	INFO	Listening on port 53324
+1532190051142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532190051209	Marionette	DEBUG	[6442450945] Frame script loaded
+1532190051210	Marionette	DEBUG	[6442450945] Frame script registered
+1532190051304	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1532190052928	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1532190058067	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://adjiva.com/qa-test/
+1532190060141	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://adjiva.com/qa-test/
+1532190060541	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+
+h reason=th 
+reason=AbnorAbnormalShumalShtdutdown
+own
+vent beforeunload for http://adjiva.com/qa-test/
+1532189612937	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://adjiva.com/qa-test/
+1532189612939	Marionette	DEBUG	[6442450945] Received DOM event unload for http://adjiva.com/qa-test/
+1532189613080	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://adjiva.com/qa-test/thanks.html
+1532189613088	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://adjiva.com/qa-test/thanks.html
