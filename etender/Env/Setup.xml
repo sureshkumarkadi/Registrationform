@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<data>
+    <eTender>
+        <browser>chrome</browser>
+	    <URL>https://etender.staging.causeway.com/</URL>
+		<StageURL>https://etender.staging.causeway.com/</StageURL>
+		<MasterURL>https://etender.staging.causeway.com/</MasterURL>
+		<PreStageURL>http://bg-etender-ui:8080/etender/</PreStageURL>
+		<env>PreStageURL</env>
+	</eTender>
+</data>
